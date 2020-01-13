@@ -1,0 +1,6 @@
+.env
+vendor/
+composer.lock
+logs/*
+!logs/.gitkeep
+.DS_Store
